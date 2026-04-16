@@ -1,4 +1,4 @@
-# "Analysis of the Results of the “Website Redesign A/B Test”
+# Analysis of the Results of the “Website Redesign A/B Test”
  This notebook contains a comprehensive analysis of the results of an A/B test of a new webpage design.
 Objective: To determine whether the new design improved conversion rates, session duration, and page views. 
 
