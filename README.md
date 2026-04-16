@@ -62,7 +62,8 @@ Intensify marketing campaigns for the 35–44 segment—it responds best to the 
 Investigate the causes of abnormally long sessions (>15 min)—these may be technical errors or highly engaged users.
 Conduct a repeat A/B test 3 months after implementation to confirm the long-term effect.
 
-"Analysis of the Results of the “Website Redesign A/B Test”
+## "Аналіз результатів  “Website Redesign A/B Test"
+
 Мета проєкту:
 Оцінити ефективність нового дизайну вебсторінки (варіант treatment) порівняно з поточним дизайном (варіант control). Головне питання: чи покращив новий дизайн ключові поведінкові показники користувачів, а саме:
 Рівень конверсії (converted) – чи здійснив користувач цільову дію.
