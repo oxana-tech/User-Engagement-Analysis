@@ -132,4 +132,6 @@ Boxplot для візуалізації розподілів.
 
  ## Cod Python
  <a href="https://colab.research.google.com/drive/1xZ-TNClbh-iYjgGBAyjEIrqdg2akXoV4?usp=sharing">Cod Python</a>
+## Dashboard  in Excel
+
 
