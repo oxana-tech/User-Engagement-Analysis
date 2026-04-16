@@ -134,8 +134,6 @@ Boxplot для візуалізації розподілів.
 ## View Dashboard
  <a href="https://1drv.ms/x/c/967993caafdfee23/IQApIiRJ1bMVS4cORHnhKip-AW4Y2w4fHrLuSDYgOkwFN7E?e=OL2auf">Dashboard  in Excel</a>
 
- <a href="https://github.com/oxana-tech/Analysis-of-the-Results-of-the-Website-Redesign-A-B-Test-">Dashboard  in html</a>
-
  <a href="https://drive.google.com/file/d/1mBu0alv6lU5y0MGjaBbWz_Z78EXPHZE_/view?usp=sharing">Dashboard  in PDF</a>
 
 ## View AB_Test_Report
