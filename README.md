@@ -139,4 +139,4 @@ Boxplot для візуалізації розподілів.
  <a href="https://drive.google.com/file/d/1mBu0alv6lU5y0MGjaBbWz_Z78EXPHZE_/view?usp=sharing">Dashboard  in PDF</a>
 
 ## View AB_Test_Report
- <a href="https://drive.google.com/file/d/155I7ieWOMWMNXZ-MjEEV-EWdPict0dcP/view?usp=sharing">Dataset</a>
+ <a href="https://drive.google.com/file/d/155I7ieWOMWMNXZ-MjEEV-EWdPict0dcP/view?usp=sharing">View AB_Test_Report</a>
