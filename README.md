@@ -134,7 +134,7 @@ Boxplot для візуалізації розподілів.
 ## Dashboard
  <a href="https://1drv.ms/x/c/967993caafdfee23/IQApIiRJ1bMVS4cORHnhKip-AW4Y2w4fHrLuSDYgOkwFN7E?e=OL2auf">Dashboard  in Excel</a>
 
- <a href="file:///D:/%D0%9A%D0%A3%D0%A0%D0%A1%20%D0%94%D0%90%D0%A2%D0%90%D0%9D%D0%90%D0%9B%D0%98%D0%A2%D0%98%D0%9A%D0%98/4-%D0%B9%20%D0%BC%D1%96%D1%81%D1%8F%D1%86%D1%8C%20%D0%B7%20%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8/WebsiteRedesignAB%20Test%20Analysis%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.htm">Dashboard  in html</a>
+ <a href="D:/%D0%9A%D0%A3%D0%A0%D0%A1%20%D0%94%D0%90%D0%A2%D0%90%D0%9D%D0%90%D0%9B%D0%98%D0%A2%D0%98%D0%9A%D0%98/4-%D0%B9%20%D0%BC%D1%96%D1%81%D1%8F%D1%86%D1%8C%20%D0%B7%20%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8/WebsiteRedesignAB%20Test%20Analysis%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.htm">Dashboard  in html</a>
 
  <a href="https://drive.google.com/file/d/1mBu0alv6lU5y0MGjaBbWz_Z78EXPHZE_/view?usp=sharing">Dashboard  in PDF</a>
 
