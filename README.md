@@ -127,5 +127,5 @@ Boxplot для візуалізації розподілів.
 Дослідити причини аномально довгих сесій (>15 хв) – можливо, це технічні помилки або дуже залучені користувачі.
 Через 3 місяці після впровадження провести повторний A/B тест для підтвердження довгострокового ефекту.
  
- ## Dashboard
- <a href="https://docs.google.com/spreadsheets/d/16e4CaLY2CjvlXSQF58kEe9qCoNhK6rQTTN8ItM4PK_c/edit?gid=981425842#gid=981425842">User  Engagement  Analysis</a>
+ ## Dataset
+ <a href="https://docs.google.com/spreadsheets/d/1z4RYogd5O2bal2KzrpOMQZf2R0mVi0UecmoPQ6tRn48/edit?usp=sharing">Dataset</a>
